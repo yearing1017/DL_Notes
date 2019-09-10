@@ -85,6 +85,7 @@ cross_entropy = tf.reduce_mean(-tf.reduce_sum(y_ * tf.log(y_conv),reduction_indi
 # 优化算法Adam函数
 train_step = tf.train.AdamOptimizer(1e-4).minimize(cross_entropy)  # 优化方法：AdamOptimizer| 学习速率：(1e-4)| 交叉熵：最小化
 
+
 # 存放结果到一个布尔列表 ：tf.argmax表示找到最大值的位置(也就是预测的分类和实际的分类)，然后看看他们是否一致，是就返回true,不是就返回false,这样得到一个boolean数组
 correct_prediction = tf.equal(tf.argmax(y_conv,1),tf.argmax(y_,1))  # tf.equal返回布尔值 | tf.argmax(y_,1)：数字1代表最大值
 # 准确率：tf.cast将boolean数组转成int数组，最后求平均值，得到分类的准确率
