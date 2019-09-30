@@ -2,3 +2,7 @@
 - 该项目所使用的环境如下：
   - **Python3.6+TensorFlow1.13+numpy1.16**
   - **CUDA 8.061 + CUDNN 5.1 +tensorflow_gpu 1.2.0**
+- 项目简介：
+  - ResNet_model.py：建立ResNet50网络的结构，返回经过该网络训练后的结果
+  - CIFARHelper.py：对CIFAR10数据集进行一些特定的处理，及加载数据等功能
+  - Main.py：主函数，结合上述文件，使用残差网络对数据集进行训练
