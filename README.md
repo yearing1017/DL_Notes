@@ -14,6 +14,7 @@
 - [CNN学习笔记（5）-CNN_激活函数与全连接层](https://yearing1017.site/2019/08/14/CNN-%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E4%B8%8E%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82/)
 - [CNN学习笔记（6）-CNN_填充和步幅](https://yearing1017.site/2019/09/05/CNN-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85/)
 - [CNN学习笔记（7）-CNN_channels](https://yearing1017.site/2019/09/07/CNN-channels/)
+- [CNN学习笔记（8）-张量](https://yearing1017.site/2019/11/12/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E5%BC%A0%E9%87%8F/)
 
 ## 3.《经典网络模型学习》
 - [1. LeNet-5](https://yearing1017.site/2019/09/09/CNN-LeNet-5/)
@@ -23,3 +24,5 @@
 - [5. VGGNet-16](https://yearing1017.site/2019/09/13/CNN-VGGNet16/)
 - [6. GoogLeNet_v1-v3](https://yearing1017.site/2019/09/24/GoogLeNet-V1-V3/)
 - [7. ResNet_DRN](https://yearing1017.site/2019/09/26/ResNet-DRN/)
+- [8. FCN](https://yearing1017.site/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
+- [9. DenseNet](https://yearing1017.site/2019/10/29/DenseNet-CVPR2017/)
