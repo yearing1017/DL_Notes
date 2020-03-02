@@ -13,6 +13,8 @@
 - [机器学习常见评价指标及分割指标MIoU](https://yearing1017.site/2020/02/07/语义分割指标MIoU/)
 - [MIoU基于PyTorch的计算](https://yearing1017.site/2020/02/17/MIoU-PyTorch/)
 - [Kappa系数基于PyTorch的计算](https://yearing1017.site/2020/02/27/基于混淆矩阵的Kappa系数的计算/)
+- [过拟合问题原因](https://www.cnblogs.com/eilearn/p/9203186.html)
+
 
 ## 2.卷积神经网络原理与视觉实践
 
