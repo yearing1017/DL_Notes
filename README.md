@@ -7,13 +7,13 @@
 
 ## 1.神经网络与深度学习
 
-- [1-1 神经网络与深度学习（1）-深度学习概论](https://yearing1017.site/2019/04/12/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-1-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/)
-- [1-2 神经网络与深度学习（2）-逻辑回归](https://yearing1017.site/2019/04/27/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-2-%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/)
-- [1-3 神经网络与深度学习（3）-Python与向量化](https://yearing1017.site/2019/05/02/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3-Python%E4%B8%8E%E5%90%91%E9%87%8F%E5%8C%96/)
-- [机器学习常见评价指标及分割指标MIoU](https://yearing1017.site/2020/02/07/语义分割指标MIoU/)
-- [MIoU基于PyTorch的计算](https://yearing1017.site/2020/02/17/MIoU-PyTorch/)
-- [深度可分离卷积](https://yearing1017.site/2020/02/15/Depthwise-separable-convolution/)
-- [Kappa系数基于PyTorch的计算](https://yearing1017.site/2020/02/27/基于混淆矩阵的Kappa系数的计算/)
+- [1-1 神经网络与深度学习（1）-深度学习概论](http://yearing1017.cn/2019/04/12/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-1-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/)
+- [1-2 神经网络与深度学习（2）-逻辑回归](http://yearing1017.cn/2019/04/27/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-2-%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92/)
+- [1-3 神经网络与深度学习（3）-Python与向量化](http://yearing1017.cn/2019/05/02/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-3-Python%E4%B8%8E%E5%90%91%E9%87%8F%E5%8C%96/)
+- [机器学习常见评价指标及分割指标MIoU](http://yearing1017.cn/2020/02/07/语义分割指标MIoU/)
+- [MIoU基于PyTorch的计算](http://yearing1017.cn/2020/02/17/MIoU-PyTorch/)
+- [深度可分离卷积](http://yearing1017.cn/2020/02/15/Depthwise-separable-convolution/)
+- [Kappa系数基于PyTorch的计算](http://yearing1017.cn/2020/02/27/基于混淆矩阵的Kappa系数的计算/)
 - [过拟合问题原因](https://www.cnblogs.com/eilearn/p/9203186.html)
 
 
