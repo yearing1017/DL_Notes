@@ -38,15 +38,15 @@
   - 全局平均池化
   
 ## 3.经典网络模型学习
-- [1. LeNet-5](https://yearing1017.site/2019/09/09/CNN-LeNet-5/)
-- [2. LeNet-5_MINST](https://yearing1017.site/2019/09/10/Tensorflow-LeNet-5-MNIST/)
-- [3. AlexNet](https://yearing1017.site/2019/09/10/CNN-AlexNet/)
-- [4. AlexNet_MINST](https://yearing1017.site/2019/09/10/Tensorflow-AlexNet-MNIST/)
-- [5. VGGNet-16](https://yearing1017.site/2019/09/13/CNN-VGGNet16/)
-- [6. GoogLeNet_v1-v3](https://yearing1017.site/2019/09/24/GoogLeNet-V1-V3/)
-- [7. ResNet_DRN](https://yearing1017.site/2019/09/26/ResNet-DRN/)
-- [8. FCN](https://yearing1017.site/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
-- [9. DenseNet](https://yearing1017.site/2019/10/29/DenseNet-CVPR2017/)
-- [10. UNet](https://yearing1017.site/2019/11/21/U-Net-paper/)
+- [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
+- [2. LeNet-5_MINST](http://yearing1017.cn/2019/09/10/Tensorflow-LeNet-5-MNIST/)
+- [3. AlexNet](http://yearing1017.cn/2019/09/10/CNN-AlexNet/)
+- [4. AlexNet_MINST](http://yearing1017.cn/2019/09/10/Tensorflow-AlexNet-MNIST/)
+- [5. VGGNet-16](http://yearing1017.cn/2019/09/13/CNN-VGGNet16/)
+- [6. GoogLeNet_v1-v3](http://yearing1017.cn/2019/09/24/GoogLeNet-V1-V3/)
+- [7. ResNet_DRN](http://yearing1017.cn/2019/09/26/ResNet-DRN/)
+- [8. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
+- [9. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
+- [10. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
 - [11. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
 
