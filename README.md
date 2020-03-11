@@ -16,6 +16,7 @@
 - [Kappa系数基于PyTorch的计算](http://yearing1017.cn/2020/02/27/基于混淆矩阵的Kappa系数的计算/)
 - [过拟合问题原因](https://www.cnblogs.com/eilearn/p/9203186.html)
 - [k折交叉验证](https://zhuanlan.zhihu.com/p/67563863)
+- [sklearn中k折交叉验证的实现](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation) 
 
 
 ## 2.卷积神经网络原理与视觉实践
