@@ -52,6 +52,11 @@
 - [10. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
 - [11. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
 - [12. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
+
+## 4.计算机视觉中的Attention机制
+- [1.简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
+
+
 ## ToDo
 - [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 
