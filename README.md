@@ -57,5 +57,5 @@
 ## ToDo
 - [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 - [x] CCNet论文：[论文地址](http://cn.arxiv.org/pdf/1811.11721.pdf)
-- [ ] CCNet论文的实现：[官方实现](https://github.com/speedinghzl/CCNet)
-- [ ] Non-local-Net论文：[论文地址](https://arxiv.org/abs/1711.07971)
+- [x] CCNet论文的实现：[官方实现](https://github.com/speedinghzl/CCNet)、[非官方简单实现](https://github.com/Serge-weihao/CCNet-Pure-Pytorch)
+- [x] Non-local-Net论文：[论文地址](https://arxiv.org/abs/1711.07971)
