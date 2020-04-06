@@ -62,5 +62,5 @@
 - [x] CCNet论文：[论文地址](http://cn.arxiv.org/pdf/1811.11721.pdf)
 - [x] CCNet论文的实现：[官方实现](https://github.com/speedinghzl/CCNet)、[非官方简单实现](https://github.com/Serge-weihao/CCNet-Pure-Pytorch)
 - [x] Non-local-Net论文：[论文地址](https://arxiv.org/abs/1711.07971)
-- [x] DAN论文：[]()
+- [x] DAN论文：[Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
 - [ ] [Pyramid Attention Network for Semantic Segmentation](http://cn.arxiv.org/pdf/1805.10180v1.pdf)
