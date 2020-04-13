@@ -56,6 +56,7 @@
 ## 4.计算机视觉中的Attention机制
 - [简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
 - [Attention机制的文章总结](https://blog.csdn.net/humanpose/article/details/85332392)
+- [CV中的Attention机制】SENet中的SE模块]( https://zhuanlan.zhihu.com/p/102035721)
 - [x] CCNet论文：[论文地址](http://cn.arxiv.org/pdf/1811.11721.pdf)
 - [x] CCNet论文的实现：[官方实现](https://github.com/speedinghzl/CCNet)、[非官方简单实现](https://github.com/Serge-weihao/CCNet-Pure-Pytorch)
 - [x] Non-local-Net论文：[论文地址](https://arxiv.org/abs/1711.07971)
