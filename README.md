@@ -39,20 +39,20 @@
   
 ## 3.经典网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
-- [2. LeNet-5_MINST](http://yearing1017.cn/2019/09/10/Tensorflow-LeNet-5-MNIST/)
-- [3. AlexNet](http://yearing1017.cn/2019/09/10/CNN-AlexNet/)
-- [4. AlexNet_MINST](http://yearing1017.cn/2019/09/10/Tensorflow-AlexNet-MNIST/)
-- [5. VGGNet-16](http://yearing1017.cn/2019/09/13/CNN-VGGNet16/)
-- [6. GoogLeNet_v1-v3](http://yearing1017.cn/2019/09/24/GoogLeNet-V1-V3/)
-- [7. ResNet_DRN](http://yearing1017.cn/2019/09/26/ResNet-DRN/)
-- [8. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
-- [9. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
-- [10. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
-- [11. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
-- [12. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
-- [13. Non-local-Net](http://yearing1017.cn/2020/04/05/Non-local-paper/)
-- [14. CCNet](http://yearing1017.cn/2020/03/26/CCNet-paper/)
-- [15. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
+- [2. AlexNet](http://yearing1017.cn/2019/09/10/CNN-AlexNet/)
+- [3. VGGNet-16](http://yearing1017.cn/2019/09/13/CNN-VGGNet16/)
+- [4. GoogLeNet_v1-v3](http://yearing1017.cn/2019/09/24/GoogLeNet-V1-V3/)
+- [5. ResNet_DRN](http://yearing1017.cn/2019/09/26/ResNet-DRN/)
+- [6. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
+- [7. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
+- [8. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
+- [9. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
+- [10.Deeplabv3+]()
+- [11. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
+- [12. Non-local-Net](http://yearing1017.cn/2020/04/05/Non-local-paper/)
+- [13. CCNet](http://yearing1017.cn/2020/03/26/CCNet-paper/)
+- [14. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
+
 ## 4.计算机视觉中的Attention机制
 - [简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
 - [Attention机制的文章总结](https://blog.csdn.net/humanpose/article/details/85332392)
@@ -63,5 +63,7 @@
 - [x] DAN论文：[Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
 - [x] DAN代码实现：[代码地址1](https://github.com/yiskw713/DualAttention_for_Segmentation)、[代码地址2](https://github.com/junfu1115/DANet/)
 - [ ] [Pyramid Attention Network for Semantic Segmentation](http://cn.arxiv.org/pdf/1805.10180v1.pdf)
-- [ ] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
+- [x] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
 - [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
+
+## 5.GNN
