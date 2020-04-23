@@ -37,15 +37,18 @@
   - 全局平均池化
   - 张量的维度判断技巧
   
-## 3.经典网络模型学习
+## 3.经典CNN网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
 - [2. AlexNet](http://yearing1017.cn/2019/09/10/CNN-AlexNet/)
 - [3. VGGNet-16](http://yearing1017.cn/2019/09/13/CNN-VGGNet16/)
 - [4. GoogLeNet_v1-v3](http://yearing1017.cn/2019/09/24/GoogLeNet-V1-V3/)
 - [5. ResNet_DRN](http://yearing1017.cn/2019/09/26/ResNet-DRN/)
-- [6. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
 - [7. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
-- [8. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
+
+## 4.语义分割网络模型
+- [1. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
+- [2. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
+- [7. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
 - [9. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
 - [10.Deeplabv3+](https://github.com/yearing1017/Paper_Note/blob/master/论文Markdown笔记/deeplabv3%2B_paper.md)
 - [11. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
