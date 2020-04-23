@@ -48,13 +48,13 @@
 ## 4.语义分割网络模型
 - [1. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
 - [2. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
-- [7. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
-- [9. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
-- [10.Deeplabv3+](https://github.com/yearing1017/Paper_Note/blob/master/论文Markdown笔记/deeplabv3%2B_paper.md)
-- [11. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
-- [12. Non-local-Net](http://yearing1017.cn/2020/04/05/Non-local-paper/)
-- [13. CCNet](http://yearing1017.cn/2020/03/26/CCNet-paper/)
-- [14. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
+- [3. Deeplabv3](https://github.com/yearing1017/Deeplabv3_Pytorch/blob/master/Deeplab_v3.md)
+- [4.Deeplabv3+](https://github.com/yearing1017/Paper_Note/blob/master/论文Markdown笔记/deeplabv3%2B_paper.md)
+- [5. DFN](http://yearing1017.cn/2020/03/19/DFN-paper/)
+- [6. Non-local-Net](http://yearing1017.cn/2020/04/05/Non-local-paper/)
+- [7. CCNet](http://yearing1017.cn/2020/03/26/CCNet-paper/)
+- [8. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
+- [9. PANet](http://yearing1017.cn/2020/04/10/PAN-paper/)
 
 ## 4.计算机视觉中的Attention机制
 - [简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
@@ -69,4 +69,4 @@
 - [x] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
 - [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 
-## 5.GNN
+## 5.实例分割学习
