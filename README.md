@@ -56,7 +56,7 @@
 - [8. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
 - [9. PANet](http://yearing1017.cn/2020/04/10/PAN-paper/)
 
-## 4.计算机视觉中的Attention机制
+## 5.计算机视觉中的Attention机制
 - [简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
 - [Attention机制的文章总结](https://blog.csdn.net/humanpose/article/details/85332392)
 - [CV中的Attention机制-SENet中的SE模块]( https://zhuanlan.zhihu.com/p/102035721)
@@ -69,4 +69,9 @@
 - [x] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
 - [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 
-## 5.实例分割学习
+## 6.实例分割学习
+
+### 6.1 R-CNN系列
+- R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
+- Fast R-CNN:[]()
+- Faster R-CNN:[]()
