@@ -73,5 +73,5 @@
 
 ### 6.1 R-CNN系列
 - R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
-- Fast R-CNN:[]()
-- Faster R-CNN:[]()
+- Fast R-CNN:[Fast R-CNN](http://cn.arxiv.org/pdf/1504.08083v2)
+- Faster R-CNN:[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://cn.arxiv.org/pdf/1506.01497.pdf)
