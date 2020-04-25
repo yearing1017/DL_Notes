@@ -67,7 +67,7 @@
 - [x] DAN代码实现：[代码地址1](https://github.com/yiskw713/DualAttention_for_Segmentation)、[代码地址2](https://github.com/junfu1115/DANet/)
 - [ ] PANet论文：[Pyramid Attention Network for Semantic Segmentation](http://cn.arxiv.org/pdf/1805.10180v1.pdf)
 - [x] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
-- [ ] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
+- [x] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 
 ## 6.实例分割学习
 
