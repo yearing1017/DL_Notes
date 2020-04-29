@@ -79,4 +79,5 @@
 - [x] PANet论文：[Pyramid Attention Network for Semantic Segmentation](http://cn.arxiv.org/pdf/1805.10180v1.pdf)
 - [x] PAN的代码实现：[参考1](https://github.com/JaveyWang/Pyramid-Attention-Networks-pytorch/)、[参考2](https://github.com/Andy-zhujunwen/pytorch-Pyramid-Attention-Networks-PAN-/)，后者是前者的改进
 - [x] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
+- [ ] EMANet论文：[ Expectation-Maximization Attention Networks for Semantic Segmentation](https://zhuanlan.zhihu.com/p/78018142)
 
