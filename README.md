@@ -81,3 +81,4 @@
 - [x] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 - [ ] EMANet论文：[ Expectation-Maximization Attention Networks for Semantic Segmentation](https://zhuanlan.zhihu.com/p/78018142)
 
+## 7. GCN
