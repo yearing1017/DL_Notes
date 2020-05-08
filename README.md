@@ -16,6 +16,8 @@
 - [sklearn中k折交叉验证的实现](https://scikit-learn.org/stable/modules/cross_validation.html#cross-validation) 
 - [离线数据增强与在线数据增强](https://zhuanlan.zhihu.com/p/56139575)
 - [语义分割中的三种上采样方式：转置卷积、线性插值、解池化](https://zhuanlan.zhihu.com/p/92123010)
+- [上采样-双线性插值的理解]()
+- [上采样-最邻近插值]()
 
 
 ## 2.卷积神经网络原理与视觉实践
