@@ -19,6 +19,7 @@
 - [上采样-双线性插值的理解](https://www.zhihu.com/search?type=content&q=%E4%B8%8A%E9%87%87%E6%A0%B7%20%E5%8F%8C%E7%BA%BF%E6%80%A7%E6%8F%92%E5%80%BC)
 - [上采样-最邻近插值](https://zhuanlan.zhihu.com/p/89421892)
 - [某大佬对align_corners的理解](https://zhuanlan.zhihu.com/p/87572724)
+- [深度学习的11个技巧](https://zhuanlan.zhihu.com/p/138024517)
 
 
 ## 2.卷积神经网络原理与视觉实践
