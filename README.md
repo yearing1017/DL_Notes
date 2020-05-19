@@ -20,6 +20,7 @@
 - [上采样-最邻近插值](https://zhuanlan.zhihu.com/p/89421892)
 - [某大佬对align_corners的理解](https://zhuanlan.zhihu.com/p/87572724)
 - [深度学习的11个技巧](https://zhuanlan.zhihu.com/p/138024517)
+- [Focal-Loss损失函数的理解](https://www.zhihu.com/search?q=focal%20loss%20pytorch&type=content)
 
 
 ## 2.卷积神经网络原理与视觉实践
