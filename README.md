@@ -64,7 +64,7 @@
 - [9. PANet](http://yearing1017.cn/2020/04/10/PAN-paper/)
 
 
-## 5.实例分割学习
+## 5.实例分割
 
 ### 5.1 R-CNN系列
 - R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
@@ -93,4 +93,14 @@
 - [x] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 - [ ] EMANet论文：[ Expectation-Maximization Attention Networks for Semantic Segmentation](https://zhuanlan.zhihu.com/p/78018142)
 
-## 7. GCN
+
+## 7. 目标检测
+- R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
+- [R-CNN学习笔记](http://yearing1017.cn/2020/04/26/R-CNN-paper/)
+- Fast R-CNN:[Fast R-CNN](http://cn.arxiv.org/pdf/1504.08083v2)
+- [Fast R-CNN学习笔记](http://yearing1017.cn/2020/04/27/Fast-R-CNN/)
+- Faster R-CNN:[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://cn.arxiv.org/pdf/1506.01497.pdf)
+- [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
+
+
+## 8. GCN
