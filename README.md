@@ -63,6 +63,7 @@
 - [7. CCNet](http://yearing1017.cn/2020/03/26/CCNet-paper/)
 - [8. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
 - [9. PANet](http://yearing1017.cn/2020/04/10/PAN-paper/)
+- [10. ResNeSt](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)
 
 
 ## 5.实例分割
