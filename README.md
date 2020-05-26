@@ -85,6 +85,7 @@
 - [CV中的Attention机制-SENet中的SE模块]( https://zhuanlan.zhihu.com/p/102035721)
 - SENet论文笔记：[博文地址](http://yearing1017.cn/2020/05/11/SENet-paper/)
 - SKNet论文笔记：[博文地址](http://yearing1017.cn/2020/05/14/SKNet/)
+- [融合SENet、SKNet、ResNeXt、ResNet的backbone网络：ResNeSt](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)
 - [x] CCNet论文：[论文地址](http://cn.arxiv.org/pdf/1811.11721.pdf)
 - [x] CCNet论文的实现：[官方实现](https://github.com/speedinghzl/CCNet)、[非官方简单实现](https://github.com/Serge-weihao/CCNet-Pure-Pytorch)
 - [x] Non-local-Net论文：[论文地址](https://arxiv.org/abs/1711.07971)
