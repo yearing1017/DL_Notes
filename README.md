@@ -106,4 +106,4 @@
 - [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
 
 
-## 8. GCN
+## 8. GAN
