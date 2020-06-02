@@ -1,6 +1,6 @@
 # DL_Notes
 
-## 📚专栏介绍
+## 📚 专栏介绍
 
 - 学习笔记的归类
 - 有关DL、ML的资料的积累
@@ -88,6 +88,7 @@
 - [Attention机制的文章总结](https://blog.csdn.net/humanpose/article/details/85332392)
 - [深入理解注意力机制](https://zhuanlan.zhihu.com/p/40197380)
 - [CV中的Attention机制-SENet中的SE模块]( https://zhuanlan.zhihu.com/p/102035721)
+- [视觉注意力机制 | Non-local模块与Self-attention的之间的关系与区别](https://zhuanlan.zhihu.com/p/110130098)
 - SENet论文笔记：[博文地址](http://yearing1017.cn/2020/05/11/SENet-paper/)
 - SKNet论文笔记：[博文地址](http://yearing1017.cn/2020/05/14/SKNet/)
 - [融合SENet、SKNet、ResNeXt、ResNet的backbone网络：ResNeSt](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)
