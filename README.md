@@ -116,3 +116,6 @@
 
 
 ## 8. GAN
+
+### 8.1 GAN入门
+-[通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313)
