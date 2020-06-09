@@ -33,7 +33,7 @@
 - [CNN学习笔记（1）-CNN基本结构简介](http://yearing1017.cn/2019/07/28/CNN%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
 - [CNN学习笔记（2）-CNN基本流程](http://yearing1017.cn/2019/08/04/CNN%E5%9F%BA%E6%9C%AC%E6%B5%81%E7%A8%8B/)
 - [CNN学习笔记（3）-CNN_卷积层](http://yearing1017.cn/2019/08/11/CNN基本部件-卷积层/)
-- [CNN学习笔记（4）-CNN_汇合层（池化层）](http://yearing1017.cn/2019/08/13/CNN%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6-%E6%B1%87%E5%90%88%E5%B1%82/)
+- [CNN学习笔记（4）-CNN_池化层](http://yearing1017.cn/2019/08/13/CNN%E5%9F%BA%E6%9C%AC%E9%83%A8%E4%BB%B6-%E6%B1%87%E5%90%88%E5%B1%82/)
 - [CNN学习笔记（5）-CNN_激活函数与全连接层](http://yearing1017.cn/2019/08/14/CNN-%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0%E4%B8%8E%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%B1%82/)
 - [CNN学习笔记（6）-CNN_填充和步幅](http://yearing1017.cn/2019/09/05/CNN-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85/)
 - [CNN学习笔记（7）-CNN_channels](http://yearing1017.cn/2019/09/07/CNN-channels/)
