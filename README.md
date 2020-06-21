@@ -75,7 +75,7 @@
 ## 5.实例分割
 
 ### 5.1 相关资料积累
-- [实例分割最新最全面综述：从Mask R-CNN到BlendMask](https://zhuanlan.zhihu.com/p/110132002)
+- [实例分割全面综述：从Mask R-CNN到BlendMask](https://zhuanlan.zhihu.com/p/110132002)
 
 ### 5.2 R-CNN系列
 - R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
