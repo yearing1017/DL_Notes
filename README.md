@@ -50,6 +50,7 @@
   - 全局平均池化
   - 张量的维度判断技巧
   - Focal Loss
+  - 有关PyTorch中nn.CrossEntropyLoss()加入权重的理解
   
 ## 3.经典CNN网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
