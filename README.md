@@ -39,7 +39,7 @@
 - [CNN学习笔记（6）-CNN_填充和步幅](http://yearing1017.cn/2019/09/05/CNN-%E5%A1%AB%E5%85%85%E5%92%8C%E6%AD%A5%E5%B9%85/)
 - [CNN学习笔记（7）-CNN_channels](http://yearing1017.cn/2019/09/07/CNN-channels/)
 - [CNN学习笔记（8）-张量](http://yearing1017.cn/2019/11/12/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C-%E5%BC%A0%E9%87%8F/)
-- [DL知识随笔记录](http://yearing1017.cn/2019/11/14/CNN-%E7%9F%A5%E8%AF%86%E7%82%B9%E9%9A%8F%E7%AC%94%E7%A7%AF%E7%B4%AF/)
+- [DL知识随笔记录](http://yearing1017.cn/2019/11/14/DL-%E7%9F%A5%E8%AF%86%E7%82%B9%E9%9A%8F%E7%AC%94%E7%A7%AF%E7%B4%AF/)
   - 全连接层流程及softmax loss
   - 过拟合欠拟合问题
   - 权重衰减的推导
