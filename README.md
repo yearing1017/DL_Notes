@@ -115,6 +115,8 @@
 - [Fast R-CNN学习笔记](http://yearing1017.cn/2020/04/27/Fast-R-CNN/)
 - Faster R-CNN:[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://cn.arxiv.org/pdf/1506.01497.pdf)
 - [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
+- [理解目标检测当中的mAP](https://blog.csdn.net/hsqyc/article/details/81702437)
+- [一文搞懂目标检测的常用指标（Pascal VOC与COCO）](http://activepony.com/shen-du-xue-xi/mu-biao-jian-ce/mu-biao-jian-ce-ping-jie-zhi-biao/)
 
 
 ## 8. GAN
