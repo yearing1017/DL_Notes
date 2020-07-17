@@ -109,14 +109,25 @@
 
 
 ## 7. 目标检测
+
+### 7.1 资料积累
+- [理解目标检测当中的mAP](https://blog.csdn.net/hsqyc/article/details/81702437)
+- [一文搞懂目标检测的常用指标（Pascal VOC与COCO）](http://activepony.com/shen-du-xue-xi/mu-biao-jian-ce/mu-biao-jian-ce-ping-jie-zhi-biao/)
+- [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
+
+
+### 7.2 two-stage 算法
 - R-CNN:[Rich feature hierarchies for accurate object detection and semantic segmentation Tech report (v5)](http://cn.arxiv.org/pdf/1311.2524.pdf)
 - [R-CNN学习笔记](http://yearing1017.cn/2020/04/26/R-CNN-paper/)
 - Fast R-CNN:[Fast R-CNN](http://cn.arxiv.org/pdf/1504.08083v2)
 - [Fast R-CNN学习笔记](http://yearing1017.cn/2020/04/27/Fast-R-CNN/)
 - Faster R-CNN:[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](http://cn.arxiv.org/pdf/1506.01497.pdf)
 - [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
-- [理解目标检测当中的mAP](https://blog.csdn.net/hsqyc/article/details/81702437)
-- [一文搞懂目标检测的常用指标（Pascal VOC与COCO）](http://activepony.com/shen-du-xue-xi/mu-biao-jian-ce/mu-biao-jian-ce-ping-jie-zhi-biao/)
+
+### 7.3 one-stage算法
+- Yolov论文：[]()
+- [Yolov1学习笔记]()
+- [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
 
 
 ## 8. GAN
