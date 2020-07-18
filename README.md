@@ -114,6 +114,7 @@
 - [理解目标检测当中的mAP](https://blog.csdn.net/hsqyc/article/details/81702437)
 - [一文搞懂目标检测的常用指标（Pascal VOC与COCO）](http://activepony.com/shen-du-xue-xi/mu-biao-jian-ce/mu-biao-jian-ce-ping-jie-zhi-biao/)
 - [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
+- [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
 
 
 ### 7.2 two-stage 算法
