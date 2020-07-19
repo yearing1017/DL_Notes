@@ -126,7 +126,7 @@
 - [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
 
 ### 7.3 one-stage算法
-- Yolov论文：[]()
+- Yolov论文：[](http://xxx.itp.ac.cn/pdf/1506.02640v5)
 - [Yolov1学习笔记]()
 - [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
 
