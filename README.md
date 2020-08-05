@@ -52,6 +52,8 @@
   - 张量的维度判断技巧
   - Focal Loss
   - 有关PyTorch中nn.CrossEntropyLoss()加入权重的理解
+  - Pseudo Labeling 训练策略
+  - CNN计算力FLOPs
   
 ## 3.经典CNN网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
@@ -72,6 +74,9 @@
 - [8. DAN](http://yearing1017.cn/2020/04/06/DAN-paper/#more)
 - [9. PANet](http://yearing1017.cn/2020/04/10/PAN-paper/)
 - [10. ResNeSt](http://yearing1017.cn/2020/05/17/ResNeSt-Split-Attention-Networks/)
+- [11. FarSeg](http://yearing1017.cn/2020/07/15/FarSeg-paper/)
+- [12. G-SCNN](http://yearing1017.cn/2020/08/03/G-SCNN-paper/)
+- [13. GFF]()
 
 
 ## 5.实例分割
@@ -127,10 +132,12 @@
 - [Faster R-CNN学习笔记](http://yearing1017.cn/2020/04/29/Faster-R-CNN/)
 
 ### 7.3 one-stage算法
-- Yolov论文：[You Only Look Once: Uniﬁed, Real-Time Object Detection](http://xxx.itp.ac.cn/pdf/1506.02640v5)
+- Yolov1论文：[You Only Look Once: Uniﬁed, Real-Time Object Detection](http://xxx.itp.ac.cn/pdf/1506.02640v5)
 - [Yolov1学习笔记]()
 - [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
-
+- Yolov2论文：[YOLO9000: Better, Faster, Stronger](http://xxx.itp.ac.cn/pdf/1612.08242)
+- [Yolov2学习笔记](http://yearing1017.cn/2020/07/22/Yolov2-paper/)
+- [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
 
 ## 8. GAN
 
