@@ -28,7 +28,7 @@
 - [labelme标注工具的安装及使用总结](http://yearing1017.cn/2020/05/30/labelme%E7%9A%84%E5%AE%89%E8%A3%85%E5%8F%8A%E4%BD%BF%E7%94%A8/)
 - [一份很全的Pytorch数据增强的总结](https://segmentfault.com/a/1190000022784467)
 - [Batch Normalization原理与实战](https://zhuanlan.zhihu.com/p/34879333)
-
+- [@张航-SyncBN-跨卡同步BN](https://zhuanlan.zhihu.com/p/40496177)
 
 ## 2.卷积神经网络原理与视觉实践
 
