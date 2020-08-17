@@ -120,6 +120,9 @@
 ### 7.1 资料积累
 - [理解目标检测当中的mAP](https://blog.csdn.net/hsqyc/article/details/81702437)
 - [一文搞懂目标检测的常用指标（Pascal VOC与COCO）](http://activepony.com/shen-du-xue-xi/mu-biao-jian-ce/mu-biao-jian-ce-ping-jie-zhi-biao/)
+- [转载：Yolov1-v5系列解读（上）](https://zhuanlan.zhihu.com/p/183261974)
+- [转载：Yolov1-v5系列解读（中）](https://zhuanlan.zhihu.com/p/183781646)
+- [转载：Yolov1-v5系列解读（下）](https://zhuanlan.zhihu.com/p/186014243)
 - [转载：Yolov1详细解读](https://zhuanlan.zhihu.com/p/46691043)
 - [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
 
