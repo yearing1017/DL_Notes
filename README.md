@@ -55,6 +55,7 @@
   - 有关PyTorch中nn.CrossEntropyLoss()加入权重的理解
   - Pseudo Labeling 训练策略
   - CNN计算力FLOPs
+  - 评价指标ROC和AUC
   
 ## 3.经典CNN网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
