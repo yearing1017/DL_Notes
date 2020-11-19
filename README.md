@@ -144,7 +144,7 @@
 - [Yolov2学习笔记](http://yearing1017.cn/2020/07/22/Yolov2-paper/)
 - [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
 
-## 8. GAN
+## 8. 推荐系统与深度学习
 
-### 8.1 GAN入门
-- [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313)
+### 8.1 《推荐系统实践--项亮》读书笔记
+- [推荐系统实践(1)--什么是好的推荐系统]()
