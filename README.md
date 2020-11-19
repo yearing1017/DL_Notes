@@ -1,11 +1,17 @@
 # DL_Notes
 
-## 📚 专栏介绍
+## 📚 专栏目录
 
-- 学习笔记归类
-- DL、ML的资料积累
-- 神经网络、计算机视觉
+- [神经网络与深度学习](#NN_DL)
+- [卷积神经网络原理与视觉实践](#CNN)
+- [经典CNN网络模型](#C_CNN)
+- [语义分割网络模型](#FCN)
+- [实例分割](#I_seg)
+- [计算机视觉中的注意力机制](#CV_attention)
+- [目标检测](#OB_D)
+- [推荐系统](#Res)
 
+<a id="NN_DL"></a>
 ## 1.神经网络与深度学习
 
 - [1-1 神经网络与深度学习（1）-深度学习概论](http://yearing1017.cn/2019/04/12/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0-1-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A6%82%E8%AE%BA/)
@@ -31,6 +37,7 @@
 - [@张航-SyncBN-跨卡同步BN](https://zhuanlan.zhihu.com/p/40496177)
 - [对DO-Conv的基于deeplabv3的测试](https://github.com/yearing1017/DL_Notes/blob/master/DO_Conv_test.ipynb)
 
+<a id="CNN"></a>
 ## 2.卷积神经网络原理与视觉实践
 
 - [CNN学习笔记（1）-CNN基本结构简介](http://yearing1017.cn/2019/07/28/CNN%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
@@ -57,6 +64,7 @@
   - CNN计算力FLOPs
   - 评价指标ROC和AUC
   
+<a id="C_CNN"></a>
 ## 3.经典CNN网络模型学习
 - [1. LeNet-5](http://yearing1017.cn/2019/09/09/CNN-LeNet-5/)
 - [2. AlexNet](http://yearing1017.cn/2019/09/10/CNN-AlexNet/)
@@ -65,6 +73,7 @@
 - [5. ResNet_DRN](http://yearing1017.cn/2019/09/26/ResNet-DRN/)
 - [7. DenseNet](http://yearing1017.cn/2019/10/29/DenseNet-CVPR2017/)
 
+<a id="FCN"></a>
 ## 4.语义分割网络学习
 - [1. FCN](http://yearing1017.cn/2019/10/17/FCN-%E8%AF%AD%E4%B9%89%E5%88%86%E5%89%B2/)
 - [2. UNet](http://yearing1017.cn/2019/11/21/U-Net-paper/)
@@ -80,7 +89,7 @@
 - [12. G-SCNN](http://yearing1017.cn/2020/08/03/G-SCNN-paper/)
 - [13. GFF]()
 
-
+<a id="I_seg"></a>
 ## 5.实例分割
 
 ### 5.1 相关资料积累
@@ -96,6 +105,7 @@
 - Mask R-CNN:[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 - [Mask R-CNN学习笔记](http://yearing1017.cn/2020/05/04/Mask-R-CNN/)
 
+<a id="CV_attention"></a>
 ## 6.计算机视觉中的Attention机制
 - [简单认识CV中的注意力机制](https://blog.csdn.net/paper_reader/article/details/81082351)
 - [Attention机制的文章总结](https://blog.csdn.net/humanpose/article/details/85332392)
@@ -115,7 +125,7 @@
 - [x] DFN的实现：[参考](https://github.com/ycszen/TorchSeg/tree/master/model/dfn)
 - [ ] EMANet论文：[ Expectation-Maximization Attention Networks for Semantic Segmentation](https://zhuanlan.zhihu.com/p/78018142)
 
-
+<a id="OB_D"></a>
 ## 7. 目标检测
 
 ### 7.1 资料积累
@@ -144,6 +154,7 @@
 - [Yolov2学习笔记](http://yearing1017.cn/2020/07/22/Yolov2-paper/)
 - [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
 
+<a id="Res"></a>
 ## 8. 推荐系统与深度学习
 
 ### 8.1 《推荐系统实践--项亮》读书笔记
