@@ -9,6 +9,7 @@
 - [实例分割](#I_seg)
 - [计算机视觉中的注意力机制](#CV_attention)
 - [目标检测](#OB_D)
+- [论文](#Paper)
 
 <a id="NN_DL"></a>
 ## 1.神经网络与深度学习
@@ -152,4 +153,22 @@
 - Yolov2论文：[YOLO9000: Better, Faster, Stronger](http://xxx.itp.ac.cn/pdf/1612.08242)
 - [Yolov2学习笔记](http://yearing1017.cn/2020/07/22/Yolov2-paper/)
 - [转载：Yolov2深入解读](https://zhuanlan.zhihu.com/p/47575929)
+
+<a id="Paper"></a>
+## 8.论文
+
+###  8.1 论文下载tips：arxiv国内镜像的访问及PDF下载
+- Cornel University提供支持的原访问地址：https://arxiv.org
+- 国内中科院镜像的地址：cn.arxiv.org 或者：xxx.itp.ac.cn
+- 在原网站找到文章后，可以把https://替换为cn. 或者：http://xxx.itp.ac.cn/
+- 如：cn.arxiv.org/pdf/1710.06081v2 或者：http://xxx.itp.ac.cn/pdf/1506.02640v5
+
+### 8.2 已读论文列表
+
+| [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) |          [VGG](https://arxiv.org/pdf/1409.1556.pdf)          |        [ResNet](https://arxiv.org/pdf/1512.03385.pdf)        |      [DenseNet](https://arxiv.org/abs/1608.06993)      |          [SENet](https://arxiv.org/abs/1709.01507)           |        [SKNet](https://arxiv.org/pdf/1903.06586.pdf)         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|        **[DoConv](https://arxiv.org/abs/2006.12030)**        |        **[PyConv](https://arxiv.org/abs/2006.11538)**        | **[FCN](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)** |    **[UNet](https://arxiv.org/pdf/1505.04597.pdf)**    |   **[DilationConv](https://arxiv.org/pdf/1511.07122.pdf)**   |   **[Deeplabv3](https://arxiv.org/pdf/1706.05587v3.pdf)**    |
+|    **[Deeplabv3+](https://arxiv.org/pdf/1802.02611.pdf)**    | **[DepthwiseConv](http://yearing1017.cn/2020/02/15/Depthwise-separable-convolution/)** |       **[Xception](https://arxiv.org/abs/1610.02357)**       |     **[SegNet](https://arxiv.org/abs/1505.07293)**     |         **[DFN](https://arxiv.org/abs/1804.09337)**          |     **[CCNet](http://cn.arxiv.org/pdf/1811.11721.pdf)**      |
+|   **[Non-local](http://cn.arxiv.org/pdf/1711.07971.pdf)**    |         **[DAN](https://arxiv.org/abs/1809.02983)**          |        **[PAN](https://arxiv.org/abs/1805.10180v1)**         | **[ResNeSt](https://hangzhang.org/files/resnest.pdf)** | **[FarSeg](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zheng_Foreground-Aware_Relation_Network_for_Geospatial_Object_Segmentation_in_High_Spatial_CVPR_2020_paper.pdf)** | **[OCRNet](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1909.11065.pdf)** |
+|        **[ACNet](https://arxiv.org/abs/1905.10089)**         |      **[R-CNN](http://cn.arxiv.org/pdf/1311.2524.pdf)**      |    [**Fast R-CNN**](http://cn.arxiv.org/pdf/1504.08083v2)    |  [**Faster R-CNN**](https://arxiv.org/abs/1506.01497)  |    [**Mask R-CNN**](https://arxiv.org/pdf/1703.06870.pdf)    |   **[EfﬁcientDet](https://arxiv.org/pdf/1911.09070.pdf)**    |
 
